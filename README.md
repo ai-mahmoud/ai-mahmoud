@@ -1,59 +1,71 @@
-# Hi there! I'm Mahmoud 👋
+<h1 align="center">Hi 👋, I'm Mahmoud Hesham</h1>
+<h3 align="center">A passionate Data Scientist and Analyst from Egypt</h3>
+<h4 align="center">🎓 Student at Horus University (HUE) – Faculty of Artificial Intelligence, Department of Data Science</h4>
 
-## About Me
+---
 
-I'm a passionate programmer and AI enthusiast from Damietta, Egypt. I specialize in Python, C++, and Dart, and I’m always eager to learn new technologies and improve my skills. Currently, I’m focused on making artificial intelligence in Egypt the best in the world.
+### 🌟 About Me
 
-- 🌟 **Current Projects**: 
-  - Developing innovative machine learning models
-  - Working on fun and engaging game projects
-- 📚 **Education**: 
-  - Completed Harvard's ML and Python courses
-  - Currently studying third secondary
-- 🛠️ **Skills**: 
-  - Python, C++, Dart
-  - Machine Learning, TensorFlow, OpenCV, Pygame
-  - Linux and Windows environments
+- 🔭 I’m currently working on **Corruption: The Journey**, an AI-powered game project  
+- 🌱 I’m expanding my expertise in **Deep Learning, Computer Vision, and NLP**  
+- 👯 I’m collaborating on [Nawah Project](https://github.com/Nawah-Project)  
+- 👨‍💻 My projects are showcased at [complete-data-scienc-fvwp.bolt.host](https://complete-data-scienc-fvwp.bolt.host/)  
+- 📫 Reach me at **mahmoud.dev.ai@gmail.com**  
+- ⚡ Fun fact: I consider myself a **Jack of All Trades, Master of Data Science**
 
-## What I’m Working On
+---
 
-- **AI & Machine Learning**: Building advanced models and exploring new algorithms.
-- **Game Development**: Creating interactive and challenging games using Pygame and other tools.
-- **Microtasks**: Engaging in various microtasks to enhance productivity and gain new insights.
+### 🤝 Connect with Me
 
-## Contact Me
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-hesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-hesham" height="30" width="40" /></a>
+<a href="https://kaggle.com/dr4who" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dr4who" height="30" width="40" /></a>
+<a href="https://fb.com/mahmoud.hesham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud-hesham" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dr4who" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dr4who" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahmoud_dev_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmoud_dev_ai" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ai-mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ai-mahmoud" height="30" width="40" /></a>
+</p>
 
-Feel free to reach out for collaboration, questions, or just to connect!
+---
 
-- 📧 Email: [mahmoud.dev.ai@gmail.com](mailto:mahmoud.dev.ai@gmail.com)
-- 💬 WhatsApp: +20 122 4400 4486
+### 🧠 Languages and Tools
 
-## Tech Stack
+**Data Science Stack:**  
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
 
-- **Languages**: Python, C++, Dart
-- **Frameworks & Libraries**: TensorFlow, OpenCV, Pygame
-- **Tools**: Git, Docker, VSCode, Linux
+**Programming & Frameworks:**  
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
+<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
 
-## Achievements
+**Databases & Tools:**  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 
-- Improved production efficiency by 30% at Orange.
-- Completed advanced courses in ML and Python from Harvard.
+---
 
-## Hobbies & Interests
+### 📊 GitHub Stats
 
-- Exploring new tech gadgets and tools.
-- Playing and developing games.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-mahmoud&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-mahmoud&layout=compact&theme=tokyonight)
 
-## Current Learning Goals
+---
 
-- Mastering advanced AI techniques and algorithms.
-- Exploring new game development frameworks and tools.
+### 🧩 Current Learning Goals
 
-## GitHub Stats
+- Mastering **Deep Learning** frameworks like TensorFlow and PyTorch  
+- Building full **Machine Learning pipelines** for real-world data  
+- Combining **AI and Game Development** to create adaptive, story-driven experiences  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-mahmoud&show_icons=true&hide_title=true&hide=prs)
+---
 
-<!---
-ai-mahmoud/ai-mahmoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 *“Data is the closest thing we have to truth — if you can make it speak.”*
