@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Corruption: The Journey**, an AI-powered game project  
 - 🌱 I’m expanding my expertise in **Deep Learning, Computer Vision, and NLP**  
 - 👯 I’m collaborating on [Nawah Project](https://github.com/Nawah-Project)  
-- 👨‍💻 My projects are showcased at [complete-data-scienc-fvwp.bolt.host](https://complete-data-scienc-fvwp.bolt.host/)  
+- 👨‍💻 My projects are showcased at [mahmoud.bolt.host](https://mahmoud.bolt.host/)  
 - 📫 Reach me at **mahmoud.dev.ai@gmail.com**  
 - ⚡ Fun fact: I consider myself a **Jack of All Trades, Master of Data Science**
 
