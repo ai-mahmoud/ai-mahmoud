@@ -85,8 +85,8 @@ Data Science student, Faculty of Artificial Intelligence and Informatics, Horus 
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-mahmoud&show_icons=true&hide_title=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-mahmoud&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-vert-three-b7t8xrezk1.vercel.app/api?username=ai-mahmoud&show_icons=true&hide_title=true&theme=dark)
+![Top Languages](https://github-readme-stats-vert-three-b7t8xrezk1.vercel.app/api/top-langs/?username=ai-mahmoud&layout=compact&theme=dark)
 
 ---
 
