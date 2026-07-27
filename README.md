@@ -65,13 +65,13 @@ Data Science student, Faculty of Artificial Intelligence and Informatics, Horus 
 
 ### Also Building
 
-- **AtmoSmart** — IoT air-quality monitor with an agentic AI summarizer and a voice assistant for blind users ([live](https://atmo-smart.vercel.app))
+- **AtmoSmart** — IoT air-quality monitor with an agentic AI summarizer and a voice assistant for blind users ([repo](https://github.com/ai-mahmoud/AtmoSmart) · [live](https://atmo-smart.vercel.app))
 - **AtmoTwin** — environmental sensor digital twin: FastAPI + InfluxDB + Grafana, physics-driven simulation, anomaly detection, what-if scenarios
-- **Raqeeb** — IoT child/item-tracking Flutter app; BLE + NB-IoT + LoRa + mesh, agentic AI on top
+- **Raqeeb** — IoT child/item-tracking Flutter app; BLE + NB-IoT + LoRa + mesh, agentic AI on top ([repo](https://github.com/ai-mahmoud/raqeeb))
 - **AI CFO** — agentic finance assistant (FastAPI, PostgreSQL, Redis, Celery, Next.js)
-- **Iris Classifier** — end-to-end ML with FastAPI + web frontend + tests, ~97% CV accuracy
+- **Iris Classifier** — end-to-end ML with FastAPI + web frontend + tests, ~97% CV accuracy ([repo](https://github.com/ai-mahmoud/iris-ml-deploy))
 - **Factory Defect Detector** — PatchCore + ResNet18 + FAISS anomaly detection on MVTec AD
-- **DeepFalcon** (ML4SCI GSoC) — Conv-VAE and GNN classifier on jet-image data
+- **DeepFalcon** (ML4SCI GSoC) — Conv-VAE and GNN classifier on jet-image data ([repo](https://github.com/ai-mahmoud/ML4SCI-DeepFalcon-GSoC2026))
 - **Ma'at** — CV/HCI project flagging attention and interaction patterns in a session
 - **Peet-to-Peet** — Uber-style UI concept for home-cooked food
 

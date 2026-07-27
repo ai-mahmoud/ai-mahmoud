@@ -1,0 +1,12 @@
+# This repo holds only the GitHub profile README — nothing generated, nothing secret.
+# Guard rails so that stays true:
+.env
+.env.*
+*.local
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
