@@ -19,7 +19,7 @@ Data Science student, Faculty of Artificial Intelligence and Informatics, Horus 
 **Currently:**
 - 🎓 Microsoft Student Ambassador
 - 👨‍🏫 Data Science Instructor & Lead @ MLSC (Microsoft Student Club, Horus University)
-- 🗂️ Projects Director @ HUNA
+- 🗂️ PMO and Tech Lead @ HUNA
 
 **Previously:** Data Trainer @ Outlier AI · Data Analysis Summer Intern @ Orange Egypt
 
