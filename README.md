@@ -1,97 +1,106 @@
-<div align="center">
+<!-- Generated from portfolio/content/profile.json. Edit the source, then run npm run content:sync. -->
 
 # Mahmoud Hesham Elkholany
 
-### Data Scientist & AI Engineer — telecom data science × digital twins × the AI↔hardware layer
+### Applied AI Engineer · Egypt
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ai--mahmoud.tech-8b1e3f?style=for-the-badge)](https://www.ai-mahmoud.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8b1e3f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-elkholany)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-8b1e3f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.dev.ai@gmail.com)
+Applied AI engineer and Data Science student at Horus University \(expected graduation: 2028\). I build AI applications, backend systems, and tools for real workflows. My work includes clinical AI with physician review, Arabic/English retrieval, and Flutter/Kotlin telecom applications. Digital twins and IoT remain a particular interest.
 
-</div>
+[Portfolio](<https://www.ai-mahmoud.tech>) · [LinkedIn](<https://linkedin.com/in/mahmoud-elkholany>) · [Email](<mailto:mahmoud.dev.ai@gmail.com>)
 
----
+## Selected work
 
-### About
+### Clinical AI assistant
 
-Data Science student, Faculty of Artificial Intelligence and Informatics, Horus University of Egypt (Damietta) — graduating 2028. I work across the stack that connects AI to the real world: telecom data science day to day, digital twins whenever I get to choose. Mission: help make AI in Egypt world-class.
+Structured AI assistance for prescription workflows, with a physician reviewing every suggestion.
 
-**Currently:**
-- 🎓 Microsoft Student Ambassador
-- 👨‍🏫 Data Science Instructor & Lead @ MLSC (Microsoft Student Club, Horus University)
-- 🗂️ PMO and Tech Lead @ HUNA
+*HUNA · delivered work* · TypeScript / Gemini / Zod
 
-**Previously:** Data Trainer @ Outlier AI · Data Analysis Summer Intern @ Orange Egypt
+Delivered a clinical AI assistant with mandatory physician review.
 
----
+[Case study](<https://www.ai-mahmoud.tech/projects/clinical-ai/>)
 
-### Tech Stack
+### Arabic / English environmental RAG
 
-<p>
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter%2FDart-1a1a2e?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-1a1a2e?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/InfluxDB-1a1a2e?style=flat-square&logo=influxdb&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-1a1a2e?style=flat-square&logo=mqtt&logoColor=white" />
-</p>
+Environmental question answering with multi-hop retrieval and cross-lingual semantic search.
 
----
+*HUNA · implemented* · RAG / Gemini / Semantic search
 
-### How I Got Here
+Implemented retrieval for compound questions across Arabic and English content.
 
-**Foundations** (self-taught, ~7 years in) — HTML/CSS → Python, OOP via Pygame, design patterns, backend, automation, early IoT.
+[Case study](<https://www.ai-mahmoud.tech/projects/environmental-rag/>)
 
-**Exploration** — Flutter app development, hardware + IoT integration, DevOps, and enough Linux breakage to pick up cybersecurity basics the hard way.
+### Bulk USSD &amp; Bulk Caller
 
-**AI & Data** (current) — production-level ML connected to real backends, cloud deployment (Huawei), computer vision, agentic AI/LLMs, a little data engineering — and digital twins, which stuck as the favorite.
+Two Flutter/Kotlin tools for telecom campaigns and on-device call-outcome classification.
 
----
+*Client work · in use* · Flutter / Kotlin / Riverpod / SQLite
 
-### Flagship Projects
+Installed and running on 10\+ client devices across the two applications.
 
-**🔧 USSD Bulk Dialer** — Flutter/Android client project. Layered architecture: Riverpod, go_router, sqflite, Kotlin Foreground Service.
-[Releases →](https://github.com/ai-mahmoud/bulk-dialer-release/releases)
+[Case study](<https://www.ai-mahmoud.tech/projects/telecom-tools/>)
 
-**🎮 Corruption: The Journey** — original Metroidvania-style action-platformer (Pygame), Hollow Knight-inspired, with a corruption-force combat mechanic and branching outcomes.
-[Repo →](https://github.com/ai-mahmoud/Corruption-The-Journey)
+### AtmoTwin
 
-### Also Building
+An environmental sensor digital twin with anomaly detection and what-if simulation.
 
-- **AtmoSmart** — IoT air-quality monitor with an agentic AI summarizer and a voice assistant for blind users ([repo](https://github.com/ai-mahmoud/AtmoSmart) · [live](https://atmo-smart.vercel.app))
-- **AtmoTwin** — environmental sensor digital twin: FastAPI + InfluxDB + Grafana, physics-driven simulation, anomaly detection, what-if scenarios
-- **Raqeeb** — IoT child/item-tracking Flutter app; BLE + NB-IoT + LoRa + mesh, agentic AI on top ([repo](https://github.com/ai-mahmoud/raqeeb))
-- **AI CFO** — agentic finance assistant (FastAPI, PostgreSQL, Redis, Celery, Next.js)
-- **Iris Classifier** — end-to-end ML with FastAPI + web frontend + tests, ~97% CV accuracy ([repo](https://github.com/ai-mahmoud/iris-ml-deploy))
-- **Factory Defect Detector** — PatchCore + ResNet18 + FAISS anomaly detection on MVTec AD
-- **DeepFalcon** (ML4SCI GSoC) — Conv-VAE and GNN classifier on jet-image data ([repo](https://github.com/ai-mahmoud/ML4SCI-DeepFalcon-GSoC2026))
-- **Ma'at** — CV/HCI project flagging attention and interaction patterns in a session
-- **Peet-to-Peet** — Uber-style UI concept for home-cooked food
+*Independent project · simulated sensors* · FastAPI / InfluxDB / Grafana / scikit-learn / Docker
 
----
+Implemented sensor ingest, real-vs-twin overlays, and what-if scenarios.
 
-### Certifications
+[Case study](<https://www.ai-mahmoud.tech/projects/atmotwin/>) · [Repository](<https://github.com/ai-mahmoud/atmotwin>)
 
-27+, spanning cloud (HCCDA AI + Cloud), SQL/data, ML fundamentals, and a Micro MBA — full list on [LinkedIn](https://linkedin.com/in/mahmoud-elkholany).
+### More projects
 
----
+- [AI CFO](<https://www.ai-mahmoud.tech/projects/ai-cfo/>) — Financial analytics and Claude tool-use chat over company transaction data.
+- [DeepFalcon: jet-image ML](<https://www.ai-mahmoud.tech/projects/deepfalcon/>) — Convolutional VAE reconstruction and graph classification of quark/gluon jets.
+- [Corruption: The Journey](<https://www.ai-mahmoud.tech/projects/corruption/>) — An original Metroidvania-style game built with Python and Pygame.
+- [Raqeeb](<https://www.ai-mahmoud.tech/projects/raqeeb/>) — A Flutter tracking application with IoT connectivity and predictive location work.
+- [Factory Sentinel](<https://www.ai-mahmoud.tech/projects/factory-sentinel/>) — An interactive machine-failure simulator using Markov chains and Bayesian updates.
+- [Customer Behavior Analytics](<https://www.ai-mahmoud.tech/projects/customer-analytics/>) — Exploratory telecom churn analysis and feature engineering.
+- [Iris classification API](<https://www.ai-mahmoud.tech/projects/iris/>) — A small end-to-end model comparison and deployment exercise.
 
-### GitHub Stats
+## Current work
 
-![GitHub Stats](https://github-readme-stats-vert-three-b7t8xrezk1.vercel.app/api?username=ai-mahmoud&show_icons=true&hide_title=true&theme=dark)
-![Top Languages](https://github-readme-stats-vert-three-b7t8xrezk1.vercel.app/api/top-langs/?username=ai-mahmoud&layout=compact&theme=dark)
+**AI Software Engineer — HUNA**
 
----
+Founding technical member of the Technology sector; own architecture and PR review for an 11-person engineering team across backend, frontend, and DevOps. Reviewed 60\+ PRs and led technical training for interns.
 
-<div align="center">
+**Technical Head — Microsoft Learn Student Club, Horus University**
 
-📫 **www.ai-mahmoud.tech** · **mahmoud.dev.ai@gmail.com** · **[LinkedIn](https://linkedin.com/in/mahmoud-elkholany)**
+Promoted from Data Science Lead. Manage the club’s GitHub organization across Data Science, AI, Cybersecurity, and Embedded Systems for 200\+ members.
 
-</div>
+**Microsoft Student Ambassador — Microsoft**
+
+Reached 400\+ students across six campus sessions introducing Microsoft developer and AI tools.
+
+## Background
+
+B.Sc. Data Science — Faculty of Artificial Intelligence and Informatics, Horus University of Egypt (2024–2028, expected).
+
+- **Foundations (2019–2021)** — Self-taught HTML/CSS and Python, then object-oriented programming through Pygame, backend fundamentals, automation, and early IoT experiments.
+- **Systems and devices (2022–2023)** — Flutter applications, hardware integration alongside teammates, Linux, and deployment workflows.
+- **Applied AI and engineering leadership (2024–present)** — AI applications with real backend integrations, structured model output, retrieval, and technical leadership. Data science and digital twins connect the modeling work to complete systems.
+
+## Selected credentials
+
+- HCCDA-AI, Developer Associate — Huawei Cloud
+- HCCDA-Tech Essentials, Developer Associate — Huawei Cloud
+- [Artificial Intelligence Fundamentals](<https://www.credly.com/badges/399759bd-59a1-44ac-8914-f56bf4eee223>) — IBM SkillsBuild
+- Practical Machine Learning for Data Scientists — ITI Mahara-Tech
+- [Data Analysis with Python](<https://www.freecodecamp.org/certification/dr4who/data-analysis-with-python-v7>) — freeCodeCamp
+- Microsoft Student Ambassador · 2026 — Microsoft
+
+28 certificates, plus honors and community contributions listed on the portfolio.
+
+## Get in touch
+
+Open to internships, junior AI engineering roles, and freelance projects. Available for remote work and on-site opportunities in Cairo or Damietta.
+
+[mahmoud.dev.ai@gmail.com](<mailto:mahmoud.dev.ai@gmail.com>)
+
+## Tools I work with
+
+- **Applied AI:** Python, PyTorch, scikit-learn, Gemini API, Anthropic API, RAG, Structured output
+- **Backend and delivery:** TypeScript, FastAPI, React, SQL, Docker, Git, Linux
+- **Data and connected systems:** Pandas, Power BI, InfluxDB, Grafana, MQTT, Flutter, Kotlin
