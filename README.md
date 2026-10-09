@@ -2,7 +2,7 @@
 
 # Mahmoud Hesham Elkholany
 
-### Data Scientist & AI Engineer — telecom data science × digital twins × the AI↔hardware layer
+### AI Software Engineer — applied ML × backend systems × digital twins
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ai--mahmoud.tech-8b1e3f?style=for-the-badge)](https://www.ai-mahmoud.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8b1e3f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-elkholany)
@@ -14,14 +14,15 @@
 
 ### About
 
-Data Science student, Faculty of Artificial Intelligence and Informatics, Horus University of Egypt (Damietta) — graduating 2028. I work across the stack that connects AI to the real world: telecom data science day to day, digital twins whenever I get to choose. Mission: help make AI in Egypt world-class.
+I build AI applications and backend systems, from architecture to deployment. At HUNA, I led an 11-person engineering team and built a clinical AI assistant with physician review, alongside Arabic/English retrieval systems. Digital twins are still what I reach for whenever I get to choose. Mission: help make AI in Egypt world-class.
+
+B.Sc. Data Science, Faculty of Artificial Intelligence and Informatics, Horus University of Egypt (Damietta) — expected graduation 2028.
 
 **Currently:**
 - 🎓 Microsoft Student Ambassador
-- 👨‍🏫 Data Science Instructor & Lead @ MLSC (Microsoft Student Club, Horus University)
-- 🗂️ PMO and Tech Lead @ HUNA
+- 👨‍🏫 Technical Head @ MLSC (Microsoft Learn Student Club, Horus University)
 
-**Previously:** Data Trainer @ Outlier AI · Data Analysis Summer Intern @ Orange Egypt
+**Previously:** AI Software Engineer @ HUNA (May–October 2026) · Data Science Lead @ MLSC (September 2025–August 2026) · AI Code Reviewer / Data Analyst @ Outlier AI · Data Analyst, Telecom @ Orange Egypt
 
 ---
 
@@ -71,7 +72,7 @@ Data Science student, Faculty of Artificial Intelligence and Informatics, Horus 
 - **AI CFO** — agentic finance assistant (FastAPI, PostgreSQL, Redis, Celery, Next.js)
 - **Iris Classifier** — end-to-end ML with FastAPI + web frontend + tests, ~97% CV accuracy ([repo](https://github.com/ai-mahmoud/iris-ml-deploy))
 - **Factory Defect Detector** — PatchCore + ResNet18 + FAISS anomaly detection on MVTec AD
-- **DeepFalcon** (ML4SCI GSoC) — Conv-VAE and GNN classifier on jet-image data ([repo](https://github.com/ai-mahmoud/ML4SCI-DeepFalcon-GSoC2026))
+- **DeepFalcon** (ML task work) — Conv-VAE and GNN classifier on jet-image data ([repo](https://github.com/ai-mahmoud/ML4SCI-DeepFalcon-GSoC2026))
 - **Ma'at** — CV/HCI project flagging attention and interaction patterns in a session
 - **Peet-to-Peet** — Uber-style UI concept for home-cooked food
 
