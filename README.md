@@ -47,7 +47,6 @@ The client source code is private. The live apps, release pages and case studies
 <img src="https://img.shields.io/badge/RAG%20%2B%20pgvector-1a1a2e?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-1a1a2e?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
 **Backend and data**
@@ -57,7 +56,6 @@ The client source code is private. The live apps, release pages and case studies
 <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js%20%2F%20Express-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=white" />
 </p>
 
 **Cloud and delivery**
@@ -66,17 +64,13 @@ The client source code is private. The live apps, release pages and case studies
 <img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-1a1a2e?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-1a1a2e?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-**Front end, mobile and IoT**
+**Front end and mobile**
 <p>
 <img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter%2FDart-1a1a2e?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-1a1a2e?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-1a1a2e?style=flat-square&logo=mqtt&logoColor=white" />
-<img src="https://img.shields.io/badge/InfluxDB-1a1a2e?style=flat-square&logo=influxdb&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-1a1a2e?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
 ---
@@ -91,14 +85,6 @@ The client source code is private. The live apps, release pages and case studies
 
 - 🌫️ **[AtmoSmart](https://github.com/ai-mahmoud/AtmoSmart):** IoT air-quality monitor with an AI summary and a voice assistant for blind users ([live](https://atmo-smart.vercel.app))
 - 🌡️ **[AtmoTwin](https://github.com/ai-mahmoud/atmotwin):** digital twin of an IoT sensor network: FastAPI, InfluxDB, Grafana
-- 💼 **[AI CFO](https://github.com/ai-mahmoud/cfo):** ask questions about company finances in plain language
-- 🎮 **[Corruption: The Journey](https://github.com/ai-mahmoud/Corruption-The-Journey):** an original Metroidvania-style game in Pygame
-
----
-
-### Certifications
-
-Huawei HCCDA-AI and Cloud Tech Essentials, IBM SkillsBuild AI Fundamentals, freeCodeCamp Data Analysis with Python and more; the full list is on [my portfolio](https://www.ai-mahmoud.tech).
 
 ---
 
@@ -106,11 +92,3 @@ Huawei HCCDA-AI and Cloud Tech Essentials, IBM SkillsBuild AI Fundamentals, free
 
 ![GitHub Stats](https://github-readme-stats-vert-three-b7t8xrezk1.vercel.app/api?username=ai-mahmoud&show_icons=true&hide_title=true&theme=dark&show=reviews%2Cprs_commented%2Cprs_reviewed%2Cissues_commented)
 ![Top Languages](https://github-readme-stats-vert-three-b7t8xrezk1.vercel.app/api/top-langs/?username=ai-mahmoud&layout=compact&theme=dark)
-
----
-
-<div align="center">
-
-📫 **www.ai-mahmoud.tech** · **mahmoud.dev.ai@gmail.com** · **[LinkedIn](https://linkedin.com/in/mahmoud-elkholany)**
-
-</div>
