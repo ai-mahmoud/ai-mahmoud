@@ -2,97 +2,40 @@
 
 # Mahmoud Hesham Elkholany
 
-### AI Software Engineer — applied ML × backend systems × digital twins
+### AI Software Engineer · LLM systems on Azure · Python, FastAPI, TypeScript, PostgreSQL
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ai--mahmoud.tech-8b1e3f?style=for-the-badge)](https://www.ai-mahmoud.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8b1e3f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-elkholany)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-8b1e3f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.dev.ai@gmail.com)
+[Portfolio](https://www.ai-mahmoud.tech) · [Résumé (PDF)](https://www.ai-mahmoud.tech/resume.pdf) · [LinkedIn](https://linkedin.com/in/mahmoud-elkholany) · [Email](mailto:mahmoud.dev.ai@gmail.com)
 
 </div>
 
----
+I build and run production AI systems for paying clients. Since July 2026 I have shipped four, used today by 10 clinics, about 1,000 students and a team at Orange Egypt. Before that, I led an 11-person engineering team at HUNA.
 
-### About
+## What I've shipped
 
-I build AI applications and backend systems, from architecture to deployment. At HUNA, I led an 11-person engineering team and built a clinical AI assistant with physician review, alongside Arabic/English retrieval systems. Digital twins are still what I reach for whenever I get to choose. Mission: help make AI in Egypt world-class.
+| System | What it does | Proof |
+|---|---|---|
+| **[MyDoc90](https://mydoc90.com)** | Bilingual clinic platform for 10 clinics: appointments, records, prescriptions, payments. Its AI assistant turns Arabic/English dictation into prescriptions the doctor reviews. | 1,195 automated tests · 104 merged PRs · moved to Azure OpenAI after a 10-run benchmark · [case study](https://www.ai-mahmoud.tech/projects/clinical-ai/) |
+| **[Al-Madad](https://madad-api.bluewater-ce8b3d36.swedencentral.azurecontainerapps.io/)** | Arabic-first study platform for about 1,000 students: lectures become notes, and a RAG assistant answers from each student's own material, with sources. | Built solo in 10 days · 17 modules · 129 tests · AI spend capped per day and per user |
+| **[Sous le ciel de Paris](https://ai-mahmoud.github.io/sous-le-ciel-de-paris-info/)** | French tutor inside ChatGPT for Dr. May's doctoral research: explains in Egyptian Arabic, quizzes in French, grades into Google Sheets. | 10-tool MCP server · built in 2 days · $0/month to run |
+| **Bulk USSD & Bulk Caller** | Two Android apps for a team at Orange Egypt: spreadsheet-driven USSD campaigns and on-device call classification. | Flutter + Kotlin · [USSD releases](https://github.com/ai-mahmoud/bulk-dialer-release/releases) · [Caller releases](https://github.com/ai-mahmoud/bulk-classifier-release/releases) |
 
-B.Sc. Data Science, Faculty of Artificial Intelligence and Informatics, Horus University of Egypt (Damietta) — expected graduation 2028.
+The client source code is private. The live apps, release pages and case studies are public.
 
-**Currently:**
-- 🎓 Microsoft Student Ambassador
-- 👨‍🏫 Technical Head @ MLSC (Microsoft Learn Student Club, Horus University)
+## Stack
 
-**Previously:** AI Software Engineer @ HUNA (May–October 2026) · Data Science Lead @ MLSC (September 2025–August 2026) · AI Code Reviewer / Data Analyst @ Outlier AI · Data Analyst, Telecom @ Orange Egypt
+- **AI:** Azure OpenAI, Gemini API, RAG with pgvector, structured output, tool calling, MCP, Whisper, LLM evaluation, PyTorch
+- **Backend:** Python, FastAPI, TypeScript, Node.js/Express, PostgreSQL, REST/OpenAPI
+- **Cloud and delivery:** Azure Container Apps, Docker, GitHub Actions CI/CD, pytest, Vitest, Playwright
+- **Front end and mobile:** React, PWA, Flutter, Kotlin
 
----
+## Open work
 
-### Tech Stack
+- **[arabic-nlp-api](https://github.com/ai-mahmoud/arabic-nlp-api):** FastAPI service for Arabic normalization, dialect detection, transliteration and number-to-words.
+- **[ML4SCI DeepFalcon](https://github.com/ai-mahmoud/ML4SCI-DeepFalcon-GSoC2026):** convolutional VAE and graph neural network on jet images; 70.9% accuracy, 0.77 AUC.
+- **[ICPC HUE](https://github.com/YUST777/icpchue):** self-hosted Judge0 on Azure to bring back the online judge's Run Tests feature.
 
-<p>
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter%2FDart-1a1a2e?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-1a1a2e?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/InfluxDB-1a1a2e?style=flat-square&logo=influxdb&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-1a1a2e?style=flat-square&logo=mqtt&logoColor=white" />
-</p>
+## Also
 
----
-
-### How I Got Here
-
-**Foundations** (self-taught, ~7 years in) — HTML/CSS → Python, OOP via Pygame, design patterns, backend, automation, early IoT.
-
-**Exploration** — Flutter app development, hardware + IoT integration, DevOps, and enough Linux breakage to pick up cybersecurity basics the hard way.
-
-**AI & Data** (current) — production-level ML connected to real backends, cloud deployment (Huawei), computer vision, agentic AI/LLMs, a little data engineering — and digital twins, which stuck as the favorite.
-
----
-
-### Flagship Projects
-
-**🔧 USSD Bulk Dialer** — Flutter/Android client project. Layered architecture: Riverpod, go_router, sqflite, Kotlin Foreground Service.
-[Releases →](https://github.com/ai-mahmoud/bulk-dialer-release/releases)
-
-**🎮 Corruption: The Journey** — original Metroidvania-style action-platformer (Pygame), Hollow Knight-inspired, with a corruption-force combat mechanic and branching outcomes.
-[Repo →](https://github.com/ai-mahmoud/Corruption-The-Journey)
-
-### Also Building
-
-- **AtmoSmart** — IoT air-quality monitor with an agentic AI summarizer and a voice assistant for blind users ([repo](https://github.com/ai-mahmoud/AtmoSmart) · [live](https://atmo-smart.vercel.app))
-- **AtmoTwin** — environmental sensor digital twin: FastAPI + InfluxDB + Grafana, physics-driven simulation, anomaly detection, what-if scenarios
-- **Raqeeb** — IoT child/item-tracking Flutter app; BLE + NB-IoT + LoRa + mesh, agentic AI on top ([repo](https://github.com/ai-mahmoud/raqeeb))
-- **AI CFO** — agentic finance assistant (FastAPI, PostgreSQL, Redis, Celery, Next.js)
-- **Iris Classifier** — end-to-end ML with FastAPI + web frontend + tests, ~97% CV accuracy ([repo](https://github.com/ai-mahmoud/iris-ml-deploy))
-- **Factory Defect Detector** — PatchCore + ResNet18 + FAISS anomaly detection on MVTec AD
-- **DeepFalcon** (ML task work) — Conv-VAE and GNN classifier on jet-image data ([repo](https://github.com/ai-mahmoud/ML4SCI-DeepFalcon-GSoC2026))
-- **Ma'at** — CV/HCI project flagging attention and interaction patterns in a session
-- **Peet-to-Peet** — Uber-style UI concept for home-cooked food
-
----
-
-### Certifications
-
-27+, spanning cloud (HCCDA AI + Cloud), SQL/data, ML fundamentals, and a Micro MBA — full list on [LinkedIn](https://linkedin.com/in/mahmoud-elkholany).
-
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-vert-three-b7t8xrezk1.vercel.app/api?username=ai-mahmoud&show_icons=true&hide_title=true&theme=dark&show=reviews%2Cprs_commented%2Cprs_reviewed%2Cissues_commented)
-![Top Languages](https://github-readme-stats-vert-three-b7t8xrezk1.vercel.app/api/top-langs/?username=ai-mahmoud&layout=compact&theme=dark)
-
----
-
-<div align="center">
-
-📫 **www.ai-mahmoud.tech** · **mahmoud.dev.ai@gmail.com** · **[LinkedIn](https://linkedin.com/in/mahmoud-elkholany)**
-
-</div>
+- Technical Head at the Microsoft Learn Student Club, Horus University (200+ members)
+- Microsoft Student Ambassador
+- B.Sc. Data Science, Horus University of Egypt (expected 2028)
